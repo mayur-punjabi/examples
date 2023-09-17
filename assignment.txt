@@ -1,0 +1,19 @@
+### React ###
+// jsx, render html, react jsx, components
+create a todo list app
+// porps, render list
+render a todo list using a static list. The list should be in the parent
+// useeffect, state, conditionals
+declare list in state, set it after 5 minutes and then show the data, Show some message when there are no todos
+// form, event, conditionals, state
+update the list using an input field and add button. Should have a delete button. Show some message when there are no todos
+// router, conditional
+add login. if the user is not logged in, they should be redirected to login page. The user should be able to add/delete todo only after login
+
+### Redux ###
+// redux store, actions, reducers
+Move login and todo data to redux store
+
+### Express ###
+// server, express, routes, middleware
+create to do list CRUD api. Use file to store the data. Use proper HTTP methods. The API should be authenticated
